@@ -1,6 +1,6 @@
 # Wath this is ? 
 
-This software allows you to find any information on this one, for this it will be necessary just to give us a basic information like its: pseudo, its e-mail, its telephone number etc...
+This software allows you to find any information on this one, for this it will be necessary just to give us a basic information like its: pseudo, its e-mail, its telephone number etc... | NOT TO BE USED MALICIOUSLY |  
 
 ## How to uses 
 
